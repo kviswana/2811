@@ -1,0 +1,151 @@
+customer_id,day,meal,order,wait_time,satisfaction,spending,returning,payment
+C1001,Tuesday,Lunch,Salad,6.8,8.3,9.84,First-time,Mobile
+C1002,Wednesday,Lunch,Sandwich,10.7,,7.65,First-time,Mobile
+C1003,Wednesday,Lunch,Sandwich,5.3,7.1,8.07,Returning,Card
+C1004,Wednesday,Breakfast,Rice Bowl,3.3,7.1,11.35,Returning,Card
+C1005,Tuesday,Dinner,Wrap,3.9,7.4,9.45,Returning,Card
+C1006,Tuesday,Breakfast,Wrap,3.4,5.6,7.39,Returning,Card
+C1007,Thursday,Lunch,Sandwich,8.6,5.7,7.6,First-time,Card
+C1008,Thursday,Lunch,Sandwich,8.3,5.3,11.47,First-time,Card
+C1009,Thursday,Lunch,Sandwich,4.2,7.9,9.23,Returning,Mobile
+C1010,Friday,Breakfast,Salad,4.6,7.5,8.77,Returning,Mobile
+C1011,Tuesday,Lunch,Wrap,8.1,5.6,6.2,First-time,Card
+C1012,Wednesday,Dinner,Rice Bowl,7.5,6.9,11.96,Returning,
+C1013,Monday,Lunch,Rice Bowl,8.8,8.2,10.24,Returning,Cash
+C1014,Tuesday,Dinner,Salad,6.8,,10.46,Returning,Card
+C1015,Wednesday,Dinner,Wrap,7.8,6.4,9.46,Returning,Mobile
+C1016,Friday,Dinner,Rice Bowl,7.2,5.2,10.46,First-time,Mobile
+C1017,Thursday,Lunch,Salad,6.6,7.6,9.93,Returning,Card
+C1018,Monday,Dinner,Sandwich,5.3,7.0,9.63,Returning,Mobile
+C1019,Thursday,Lunch,Wrap,8.3,7.4,9.35,First-time,Mobile
+C1020,Wednesday,Lunch,Wrap,9.1,7.6,7.52,Returning,Card
+C1021,Tuesday,Dinner,Sandwich,8.5,6.8,9.47,First-time,Card
+C1022,Tuesday,Breakfast,Salad,2.1,9.3,10.32,Returning,Card
+C1023,Monday,Dinner,Rice Bowl,10.0,5.3,10.32,Returning,Card
+C1024,Friday,Lunch,Salad,8.8,5.8,7.59,First-time,Cash
+C1025,Friday,Dinner,Wrap,7.0,8.0,5.76,First-time,Card
+C1026,Wednesday,Lunch,Soup,5.4,8.5,3.5,Returning,Mobile
+C1027,Wednesday,Lunch,Rice Bowl,8.6,5.8,7.83,First-time,Mobile
+C1028,Wednesday,Lunch,Wrap,4.0,8.6,9.22,First-time,Cash
+C1029,Friday,Dinner,Sandwich,11.4,5.8,8.16,First-time,Mobile
+C1030,Monday,Dinner,Salad,4.8,6.7,8.55,First-time,Card
+C1031,Friday,Dinner,Soup,10.4,,6.48,Returning,Mobile
+C1032,Tuesday,Dinner,Rice Bowl,3.2,6.3,10.89,First-time,Card
+C1033,Monday,Lunch,Rice Bowl,11.8,5.4,9.09,Returning,Card
+C1034,Friday,Lunch,Wrap,8.1,6.7,7.27,First-time,Mobile
+C1035,Thursday,Lunch,Rice Bowl,10.0,6.0,13.83,Returning,Card
+C1036,Wednesday,Lunch,Sandwich,8.7,7.5,6.3,Returning,Card
+C1037,Friday,Breakfast,Rice Bowl,3.2,7.3,11.3,Returning,Card
+C1038,Friday,Lunch,Wrap,9.6,6.9,8.07,Returning,Mobile
+C1039,Thursday,Lunch,Rice Bowl,5.4,8.3,7.17,Returning,Mobile
+C1040,Wednesday,Dinner,Wrap,4.5,,9.41,Returning,Card
+C1041,Wednesday,Dinner,Wrap,7.4,,6.38,First-time,Card
+C1042,Tuesday,Breakfast,Sandwich,5.1,8.4,7.16,Returning,Cash
+C1043,Wednesday,Lunch,,5.1,6.4,7.28,Returning,Card
+C1044,Monday,Lunch,Rice Bowl,9.8,6.4,12.41,First-time,Mobile
+C1045,Friday,Lunch,Soup,8.6,6.2,8.17,Returning,
+C1046,Wednesday,Dinner,Wrap,10.3,5.0,8.56,Returning,Card
+C1047,Monday,Lunch,Sandwich,10.4,7.6,6.98,Returning,Cash
+C1048,Friday,Lunch,Wrap,12.6,5.9,10.49,First-time,
+C1049,Thursday,Dinner,Sandwich,8.6,6.9,8.84,Returning,Mobile
+C1050,Monday,Lunch,Sandwich,9.0,5.6,7.99,First-time,Mobile
+C1051,Friday,Dinner,Rice Bowl,7.9,7.8,14.24,Returning,Card
+C1052,Monday,Breakfast,Soup,2.0,6.9,7.46,First-time,Cash
+C1053,Wednesday,Lunch,Rice Bowl,9.6,7.3,10.33,First-time,Mobile
+C1054,Wednesday,Breakfast,Rice Bowl,7.9,6.0,12.94,Returning,Card
+C1055,Monday,Lunch,Rice Bowl,8.3,7.1,12.12,Returning,Card
+C1056,Wednesday,Breakfast,Soup,3.8,,6.57,First-time,Card
+C1057,Thursday,Lunch,Wrap,8.8,5.4,5.98,First-time,Card
+C1058,Monday,Lunch,Salad,7.6,6.0,7.39,First-time,Mobile
+C1059,Monday,Breakfast,Rice Bowl,6.2,,13.56,Returning,Card
+C1060,Monday,Dinner,Sandwich,2.0,7.5,6.48,First-time,Cash
+C1061,Friday,Breakfast,Salad,8.4,,7.8,Returning,Card
+C1062,Wednesday,Lunch,Salad,10.8,4.9,8.33,First-time,Mobile
+C1063,Friday,Lunch,Salad,,6.6,9.13,First-time,Card
+C1064,Wednesday,Lunch,Soup,6.1,7.3,5.05,Returning,Card
+C1065,Wednesday,Breakfast,Wrap,3.0,,7.87,Returning,Mobile
+C1066,Monday,Lunch,Sandwich,9.4,7.1,6.29,First-time,Card
+C1067,Monday,Lunch,Rice Bowl,6.6,5.8,13.79,First-time,Mobile
+C1068,Monday,Breakfast,Sandwich,5.5,6.4,9.59,Returning,Mobile
+C1069,Friday,Breakfast,Salad,5.3,5.9,9.42,Returning,Card
+C1070,Thursday,Lunch,Sandwich,10.7,5.1,7.11,First-time,Mobile
+C1071,Wednesday,Dinner,Sandwich,7.6,7.0,9.84,First-time,Card
+C1072,Friday,Lunch,Rice Bowl,11.5,6.3,11.75,First-time,Mobile
+C1073,Wednesday,Dinner,Rice Bowl,3.7,8.0,7.78,Returning,Card
+C1074,Friday,Lunch,Wrap,9.3,6.2,10.72,First-time,Mobile
+C1075,Friday,Lunch,Salad,8.9,5.9,9.99,First-time,Mobile
+C1076,Thursday,Breakfast,Rice Bowl,2.3,9.1,10.82,Returning,Mobile
+C1077,Tuesday,Dinner,Rice Bowl,4.7,5.6,12.68,Returning,Card
+C1078,Monday,Lunch,Salad,9.2,5.6,11.11,Returning,Mobile
+C1079,Friday,Dinner,Rice Bowl,7.4,7.8,14.34,First-time,Card
+C1080,Wednesday,Lunch,Rice Bowl,4.6,8.1,11.98,Returning,Cash
+C1081,Tuesday,Lunch,Rice Bowl,12.0,4.5,9.9,Returning,Card
+C1082,Wednesday,Lunch,Wrap,10.3,5.6,8.01,Returning,Card
+C1083,Wednesday,Dinner,Soup,7.5,6.5,4.95,Returning,Mobile
+C1084,Monday,Lunch,Soup,7.8,5.9,4.58,Returning,Mobile
+C1085,Wednesday,Lunch,Soup,11.5,6.1,6.24,Returning,Mobile
+C1086,Thursday,Breakfast,Sandwich,6.3,8.6,7.88,Returning,Card
+C1087,Monday,Lunch,Rice Bowl,,7.2,10.86,Returning,Card
+C1088,Tuesday,Breakfast,Salad,4.4,7.2,11.47,First-time,Card
+C1089,Thursday,Breakfast,Rice Bowl,,7.3,11.6,First-time,Mobile
+C1090,Thursday,Dinner,Wrap,10.2,6.1,5.89,First-time,Mobile
+C1091,Tuesday,Dinner,Rice Bowl,7.9,,11.41,First-time,Cash
+C1092,Monday,Dinner,Wrap,4.7,8.2,9.13,First-time,Card
+C1093,Tuesday,Lunch,,8.4,6.8,7.06,Returning,Mobile
+C1094,Thursday,Dinner,Rice Bowl,8.7,5.8,14.23,First-time,Card
+C1095,Thursday,Lunch,Rice Bowl,8.2,6.0,14.25,First-time,Card
+C1096,Thursday,Lunch,Rice Bowl,7.4,5.8,12.96,Returning,Mobile
+C1097,Tuesday,Breakfast,Soup,6.3,7.6,8.3,Returning,Card
+C1098,Thursday,Dinner,Rice Bowl,2.5,7.6,11.79,Returning,Mobile
+C1099,Friday,Dinner,Rice Bowl,8.1,7.6,13.73,Returning,Card
+C1100,Monday,Lunch,Sandwich,8.5,6.0,4.79,Returning,Card
+C1101,Tuesday,Lunch,Salad,8.6,6.7,10.29,First-time,Card
+C1102,Tuesday,Lunch,Sandwich,10.1,6.2,10.17,Returning,Card
+C1103,Monday,Lunch,,9.2,6.2,9.01,Returning,Mobile
+C1104,Wednesday,Lunch,Wrap,11.6,6.7,5.07,Returning,Card
+C1105,Friday,Lunch,Rice Bowl,9.1,6.5,11.16,First-time,Card
+C1106,Tuesday,Dinner,Sandwich,4.5,7.2,7.04,First-time,
+C1107,Thursday,Dinner,Rice Bowl,4.2,7.9,11.39,Returning,Card
+C1108,Wednesday,Lunch,Rice Bowl,7.8,7.1,10.77,Returning,Card
+C1109,Friday,Dinner,Salad,,6.3,10.76,Returning,Cash
+C1110,Friday,Lunch,Salad,8.9,6.0,8.57,First-time,Card
+C1111,Monday,Dinner,Wrap,6.4,7.0,4.97,Returning,Card
+C1112,Thursday,Dinner,Salad,7.2,6.6,8.18,First-time,Card
+C1113,Monday,Breakfast,Wrap,6.5,9.4,8.99,Returning,Card
+C1114,Thursday,Lunch,Wrap,9.4,6.5,7.35,Returning,Card
+C1115,Wednesday,Dinner,Wrap,6.2,6.9,5.84,Returning,Mobile
+C1116,Friday,Lunch,Wrap,8.3,5.9,7.95,First-time,Card
+C1117,Friday,Lunch,Sandwich,12.9,5.2,7.11,First-time,Mobile
+C1118,Wednesday,Lunch,Sandwich,12.5,5.3,8.88,Returning,Card
+C1119,Monday,Lunch,Rice Bowl,10.9,7.5,10.4,First-time,Card
+C1120,Monday,Lunch,Wrap,2.8,7.6,5.02,First-time,Card
+C1121,Friday,Breakfast,Wrap,8.9,6.6,8.44,Returning,
+C1122,Thursday,Dinner,Soup,6.7,7.7,5.1,Returning,Card
+C1123,Tuesday,Lunch,Wrap,7.8,5.8,7.52,Returning,Mobile
+C1124,Monday,Lunch,Wrap,8.2,5.4,8.78,First-time,Cash
+C1125,Tuesday,Breakfast,Soup,2.0,7.5,5.48,Returning,Cash
+C1126,Friday,Lunch,Wrap,13.4,4.8,7.11,First-time,Card
+C1127,Monday,Breakfast,Rice Bowl,5.2,4.8,11.88,First-time,Card
+C1128,Thursday,Breakfast,Sandwich,2.8,,11.17,First-time,Mobile
+C1129,Tuesday,Lunch,Rice Bowl,7.8,7.0,8.61,Returning,Mobile
+C1130,Wednesday,Lunch,Salad,9.7,5.9,8.35,Returning,Mobile
+C1131,Tuesday,Dinner,Sandwich,8.5,6.4,9.43,Returning,Mobile
+C1132,Monday,Lunch,Rice Bowl,7.0,6.6,12.11,Returning,Cash
+C1133,Tuesday,Lunch,Soup,11.7,5.0,8.13,First-time,Card
+C1134,Wednesday,Lunch,Soup,8.7,4.8,4.5,First-time,Mobile
+C1135,Friday,Dinner,Rice Bowl,11.9,7.5,8.28,Returning,Card
+C1136,Thursday,Lunch,Soup,8.4,6.3,6.05,Returning,Mobile
+C1137,Monday,Lunch,Sandwich,8.8,6.1,5.11,Returning,Mobile
+C1138,Friday,Breakfast,Salad,4.8,7.1,8.18,Returning,Cash
+C1139,Thursday,Dinner,Wrap,7.1,6.9,10.96,Returning,Card
+C1140,Wednesday,Breakfast,Salad,5.5,6.6,10.77,Returning,Card
+C1141,Friday,Lunch,Rice Bowl,,4.5,10.77,Returning,Card
+C1142,Tuesday,Lunch,Sandwich,11.1,6.3,5.26,Returning,Mobile
+C1143,Thursday,Lunch,Soup,,5.6,4.18,Returning,Cash
+C1144,Tuesday,Dinner,Wrap,4.2,6.5,8.25,Returning,Mobile
+C1145,Friday,Dinner,Salad,6.9,7.6,9.13,Returning,Card
+C1146,Thursday,Lunch,Soup,7.6,7.2,5.55,First-time,Cash
+C1147,Friday,Dinner,Rice Bowl,11.2,6.7,9.12,First-time,Card
+C1148,Tuesday,Breakfast,,6.7,9.2,10.78,Returning,Cash
+C1149,Monday,Breakfast,Soup,6.8,,10.12,First-time,Card
+C1150,Monday,Lunch,Salad,,7.3,9.86,Returning,Cash
