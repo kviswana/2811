@@ -1,0 +1,61 @@
+week,student,amount
+1,Student A (Budgeter),121
+2,Student A (Budgeter),102
+3,Student A (Budgeter),122
+4,Student A (Budgeter),109
+5,Student A (Budgeter),120
+6,Student A (Budgeter),132
+7,Student A (Budgeter),115
+8,Student A (Budgeter),119
+9,Student A (Budgeter),123
+10,Student A (Budgeter),122
+11,Student A (Budgeter),120
+12,Student A (Budgeter),112
+13,Student A (Budgeter),99
+14,Student A (Budgeter),116
+15,Student A (Budgeter),114
+1,Student B (Impulse Spender),76
+2,Student B (Impulse Spender),104
+3,Student B (Impulse Spender),91
+4,Student B (Impulse Spender),83
+5,Student B (Impulse Spender),90
+6,Student B (Impulse Spender),65
+7,Student B (Impulse Spender),95
+8,Student B (Impulse Spender),88
+9,Student B (Impulse Spender),91
+10,Student B (Impulse Spender),87
+11,Student B (Impulse Spender),269
+12,Student B (Impulse Spender),236
+13,Student B (Impulse Spender),278
+14,Student B (Impulse Spender),217
+15,Student B (Impulse Spender),255
+1,Student C (Midterm Stress),106
+2,Student C (Midterm Stress),93
+3,Student C (Midterm Stress),81
+4,Student C (Midterm Stress),89
+5,Student C (Midterm Stress),85
+6,Student C (Midterm Stress),88
+7,Student C (Midterm Stress),215
+8,Student C (Midterm Stress),219
+9,Student C (Midterm Stress),227
+10,Student C (Midterm Stress),96
+11,Student C (Midterm Stress),102
+12,Student C (Midterm Stress),87
+13,Student C (Midterm Stress),83
+14,Student C (Midterm Stress),99
+15,Student C (Midterm Stress),98
+1,Student D (Frugal Start),45
+2,Student D (Frugal Start),53
+3,Student D (Frugal Start),49
+4,Student D (Frugal Start),69
+5,Student D (Frugal Start),68
+6,Student D (Frugal Start),81
+7,Student D (Frugal Start),103
+8,Student D (Frugal Start),102
+9,Student D (Frugal Start),115
+10,Student D (Frugal Start),129
+11,Student D (Frugal Start),142
+12,Student D (Frugal Start),154
+13,Student D (Frugal Start),149
+14,Student D (Frugal Start),157
+15,Student D (Frugal Start),176
