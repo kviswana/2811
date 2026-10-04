@@ -1,0 +1,161 @@
+"order_id","minutes","time_slot","cuisine","payment","distance_miles"
+"ORD-001",24,"Late night","Burgers","Card",2.6
+"ORD-002",54,"Dinner rush","Thai","Apple Pay",1.8
+"ORD-003",40,"Dinner rush","Burgers","Cash",1.1
+"ORD-004",22,"Afternoon","Burgers","Apple Pay",1.6
+"ORD-005",23,"Afternoon","Thai","Cash",3.1
+"ORD-006",47,"Dinner rush","Sushi","Apple Pay",3.3
+"ORD-007",26,"Afternoon","Burgers","Apple Pay",2
+"ORD-008",21,"Lunch rush","Burgers","Apple Pay",0.4
+"ORD-009",28,"Lunch rush","Thai","Apple Pay",0.7
+"ORD-010",50,"Dinner rush","Thai","Card",2.8
+"ORD-011",37,"Lunch rush","Thai","Card",3.1
+"ORD-012",38,"Dinner rush","Sushi","Apple Pay",0.7
+"ORD-013",39,"Dinner rush","Burgers","Card",1.7
+"ORD-014",42,"Dinner rush","Pizza","Card",2.2
+"ORD-015",50,"Dinner rush","Burgers","Apple Pay",1.3
+"ORD-016",19,"Afternoon","Burgers","Cash",1.5
+"ORD-017",27,"Afternoon","Pizza","Card",2.4
+"ORD-018",43,"Dinner rush","Pizza","Card",2
+"ORD-019",33,"Lunch rush","Burgers","Cash",2.1
+"ORD-020",54,"Dinner rush","Thai","Card",2
+"ORD-021",39,"Lunch rush","Burgers","Apple Pay",3.3
+"ORD-022",48,"Dinner rush","Burgers","Apple Pay",1.4
+"ORD-023",40,"Dinner rush","Thai","Card",2.3
+"ORD-024",28,"Lunch rush","Burgers","Card",1.5
+"ORD-025",31,"Lunch rush","Sushi","Card",1.6
+"ORD-026",17,"Afternoon","Pizza","Apple Pay",0.8
+"ORD-027",24,"Lunch rush","Thai","Apple Pay",0.3
+"ORD-028",30,"Lunch rush","Pizza","Apple Pay",0.7
+"ORD-029",50,"Dinner rush","Sushi","Apple Pay",3.2
+"ORD-030",32,"Lunch rush","Pizza","Apple Pay",0.6
+"ORD-031",46,"Dinner rush","Thai","Apple Pay",2.5
+"ORD-032",27,"Afternoon","Thai","Apple Pay",2.2
+"ORD-033",31,"Late night","Thai","Apple Pay",1.8
+"ORD-034",29,"Lunch rush","Burgers","Apple Pay",2.1
+"ORD-035",32,"Lunch rush","Pizza","Card",1.7
+"ORD-036",40,"Lunch rush","Sushi","Cash",3
+"ORD-037",30,"Lunch rush","Burgers","Apple Pay",1.6
+"ORD-038",24,"Afternoon","Burgers","Apple Pay",2
+"ORD-039",57,"Dinner rush","Sushi","Cash",3.4
+"ORD-040",34,"Lunch rush","Sushi","Card",1.6
+"ORD-041",43,"Dinner rush","Sushi","Cash",2.7
+"ORD-042",41,"Dinner rush","Burgers","Card",0.4
+"ORD-043",7,"Late night","Pizza","Apple Pay",1
+"ORD-044",36,"Lunch rush","Pizza","Card",3.3
+"ORD-045",26,"Lunch rush","Sushi","Apple Pay",2.6
+"ORD-046",36,"Dinner rush","Thai","Apple Pay",1
+"ORD-047",23,"Afternoon","Pizza","Apple Pay",3.3
+"ORD-048",36,"Lunch rush","Pizza","Apple Pay",2.8
+"ORD-049",39,"Dinner rush","Sushi","Cash",0.4
+"ORD-050",44,"Lunch rush","Sushi","Card",0.7
+"ORD-051",43,"Lunch rush","Thai","Apple Pay",3.1
+"ORD-052",31,"Lunch rush","Sushi","Card",0.8
+"ORD-053",43,"Dinner rush","Sushi","Apple Pay",1.6
+"ORD-054",27,"Lunch rush","Thai","Apple Pay",0.7
+"ORD-055",44,"Lunch rush","Pizza","Card",3.3
+"ORD-056",36,"Late night","Pizza","Cash",2.9
+"ORD-057",8,"Afternoon","Burgers","Card",0.7
+"ORD-058",55,"Dinner rush","Sushi","Card",0.9
+"ORD-059",47,"Late night","Thai","Apple Pay",2.9
+"ORD-060",25,"Afternoon","Thai","Cash",2.4
+"ORD-061",19,"Lunch rush","Burgers","Apple Pay",0.9
+"ORD-062",29,"Dinner rush","Sushi","Cash",0.7
+"ORD-063",33,"Dinner rush","Sushi","Cash",1.9
+"ORD-064",16,"Late night","Thai","Card",0.4
+"ORD-065",35,"Lunch rush","Sushi","Card",3.2
+"ORD-066",29,"Late night","Pizza","Apple Pay",1.3
+"ORD-067",27,"Afternoon","Thai","Card",2.9
+"ORD-068",43,"Lunch rush","Burgers","Apple Pay",2.7
+"ORD-069",23,"Late night","Sushi","Apple Pay",1.1
+"ORD-070",30,"Dinner rush","Pizza","Card",0.9
+"ORD-071",37,"Lunch rush","Sushi","Card",1.2
+"ORD-072",29,"Late night","Sushi","Apple Pay",2.3
+"ORD-073",25,"Afternoon","Burgers","Card",2.7
+"ORD-074",28,"Late night","Burgers","Card",0.6
+"ORD-075",24,"Afternoon","Pizza","Cash",1.6
+"ORD-076",21,"Afternoon","Burgers","Cash",1.8
+"ORD-077",25,"Lunch rush","Burgers","Card",1.3
+"ORD-078",30,"Dinner rush","Thai","Apple Pay",1.9
+"ORD-079",43,"Late night","Sushi","Cash",3.4
+"ORD-080",52,"Dinner rush","Burgers","Apple Pay",2.5
+"ORD-081",33,"Lunch rush","Sushi","Apple Pay",0.6
+"ORD-082",30,"Afternoon","Sushi","Card",1.3
+"ORD-083",43,"Dinner rush","Thai","Apple Pay",0.4
+"ORD-084",27,"Dinner rush","Burgers","Apple Pay",3
+"ORD-085",30,"Dinner rush","Sushi","Apple Pay",1.2
+"ORD-086",29,"Afternoon","Sushi","Apple Pay",2.7
+"ORD-087",18,"Afternoon","Pizza","Apple Pay",1.6
+"ORD-088",48,"Late night","Burgers","Cash",3.3
+"ORD-089",28,"Lunch rush","Thai","Card",1.4
+"ORD-090",33,"Late night","Pizza","Card",0.6
+"ORD-091",27,"Afternoon","Sushi","Card",3.1
+"ORD-092",44,"Lunch rush","Thai","Card",2.7
+"ORD-093",42,"Dinner rush","Pizza","Apple Pay",3
+"ORD-094",29,"Lunch rush","Burgers","Apple Pay",2.4
+"ORD-095",55,"Dinner rush","Pizza","Cash",1.9
+"ORD-096",35,"Dinner rush","Thai","Apple Pay",0.5
+"ORD-097",19,"Afternoon","Burgers","Card",0.3
+"ORD-098",56,"Late night","Sushi","Card",1.1
+"ORD-099",38,"Dinner rush","Burgers","Cash",2.9
+"ORD-100",15,"Afternoon","Burgers","Cash",1.2
+"ORD-101",28,"Afternoon","Thai","Apple Pay",2.4
+"ORD-102",27,"Afternoon","Pizza","Card",1
+"ORD-103",24,"Lunch rush","Pizza","Cash",0.4
+"ORD-104",40,"Late night","Thai","Apple Pay",1.4
+"ORD-105",40,"Dinner rush","Sushi","Apple Pay",2.5
+"ORD-106",28,"Lunch rush","Pizza","Cash",2.1
+"ORD-107",50,"Dinner rush","Pizza","Cash",0.6
+"ORD-108",40,"Late night","Thai","Cash",1.5
+"ORD-109",39,"Late night","Thai","Card",1.1
+"ORD-110",56,"Dinner rush","Sushi","Apple Pay",3.3
+"ORD-111",29,"Late night","Thai","Card",0.8
+"ORD-112",30,"Lunch rush","Thai","Apple Pay",0.8
+"ORD-113",23,"Late night","Burgers","Apple Pay",3.3
+"ORD-114",50,"Dinner rush","Thai","Card",3.4
+"ORD-115",40,"Dinner rush","Sushi","Card",2.5
+"ORD-116",13,"Late night","Pizza","Card",2.5
+"ORD-117",27,"Afternoon","Pizza","Apple Pay",3
+"ORD-118",39,"Lunch rush","Thai","Card",2.8
+"ORD-119",39,"Lunch rush","Pizza","Apple Pay",3.3
+"ORD-120",44,"Dinner rush","Pizza","Apple Pay",1
+"ORD-121",45,"Dinner rush","Pizza","Apple Pay",3
+"ORD-122",22,"Late night","Burgers","Card",0.8
+"ORD-123",14,"Late night","Burgers","Apple Pay",2.5
+"ORD-124",33,"Lunch rush","Burgers","Card",0.4
+"ORD-125",35,"Lunch rush","Burgers","Apple Pay",3.2
+"ORD-126",21,"Afternoon","Burgers","Card",3.4
+"ORD-127",50,"Dinner rush","Sushi","Card",2
+"ORD-128",41,"Lunch rush","Thai","Apple Pay",2.1
+"ORD-129",31,"Late night","Burgers","Apple Pay",2.6
+"ORD-130",37,"Dinner rush","Sushi","Apple Pay",0.4
+"ORD-131",21,"Afternoon","Sushi","Card",2.1
+"ORD-132",35,"Lunch rush","Burgers","Card",2.1
+"ORD-133",28,"Afternoon","Pizza","Cash",1.6
+"ORD-134",45,"Dinner rush","Thai","Apple Pay",2.1
+"ORD-135",23,"Late night","Burgers","Apple Pay",1.4
+"ORD-136",51,"Lunch rush","Burgers","Card",1.8
+"ORD-137",21,"Late night","Burgers","Card",1
+"ORD-138",30,"Late night","Sushi","Card",2.1
+"ORD-139",49,"Lunch rush","Sushi","Card",0.7
+"ORD-140",25,"Lunch rush","Burgers","Card",2.6
+"ORD-141",30,"Lunch rush","Pizza","Card",1.5
+"ORD-142",14,"Late night","Burgers","Card",2.1
+"ORD-143",33,"Lunch rush","Burgers","Card",2.3
+"ORD-144",29,"Lunch rush","Pizza","Cash",1.7
+"ORD-145",33,"Lunch rush","Burgers","Card",3
+"ORD-146",40,"Late night","Burgers","Apple Pay",1.7
+"ORD-147",23,"Afternoon","Pizza","Cash",3
+"ORD-148",43,"Dinner rush","Thai","Card",0.8
+"ORD-149",25,"Dinner rush","Burgers","Card",1.1
+"ORD-150",30,"Lunch rush","Pizza","Cash",1.1
+"ORD-151",38,"Lunch rush","Sushi","Apple Pay",1.2
+"ORD-152",35,"Lunch rush","Pizza","Apple Pay",1.5
+"ORD-153",35,"Dinner rush","Pizza","Apple Pay",0.4
+"ORD-154",47,"Dinner rush","Thai","Card",3.4
+"ORD-155",26,"Afternoon","Thai","Apple Pay",1.4
+"ORD-156",22,"Lunch rush","Sushi","Card",0.4
+"ORD-157",20,"Late night","Burgers","Cash",2.8
+"ORD-158",24,"Afternoon","Pizza","Cash",2.2
+"ORD-159",33,"Late night","Thai","Cash",2.3
+"ORD-160",45,"Dinner rush","Burgers","Apple Pay",0.7
